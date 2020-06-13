@@ -158,7 +158,7 @@ void chalk_soil()
 {
     printf("Chalk soil can be either light or heavy but always highly alkaline due to the calcium carbonate or lime\nwithin its structure.");
     printf("As these soils are alkaline they will not support the growth of ericaceous plants\nthat require acidic soils to grow.");
-    printf("If a chalky soil shows signs of visible white lumps then they can’t be acidified\nand gardeners should be resigned to only choose");
+    printf("If a chalky soil shows signs of visible white lumps then they canâ€™t be acidified\nand gardeners should be resigned to only choose");
     printf("plants that prefer an alkaline soil.");
     printf("\n\n\nTYPES OF CROPS GROWN IN THIS SOIL: Cabbage family plants,Wild flowers,");
     printf("\n\n\nFERTILIZERS AND NUTRIENTS USED: Sea weed liquid and vermicompost");
