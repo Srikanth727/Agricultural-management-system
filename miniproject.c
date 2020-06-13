@@ -291,7 +291,7 @@ void labour()
     fclose(dgt);
     if(ct=0)
     {
-        printf("\JOB IS AVAILABLE");
+        printf("\nJOB IS AVAILABLE");
         printf("\nTIMING: 9:00AM-5:00pm\n");
         printf("WAGE:rs.250\n\n");
         printf("PRESS ENTER TO GO BACK......");
